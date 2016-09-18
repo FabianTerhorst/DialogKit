@@ -1,0 +1,22 @@
+PODS:
+  - LayoutKit (2.1.1)
+
+DEPENDENCIES:
+  - LayoutKit (from `https://github.com/linkedin/LayoutKit.git`, branch `swift3`)
+
+EXTERNAL SOURCES:
+  LayoutKit:
+    :branch: swift3
+    :git: https://github.com/linkedin/LayoutKit.git
+
+CHECKOUT OPTIONS:
+  LayoutKit:
+    :commit: 510726406b25a835ea009a42e8038dbabdfe332a
+    :git: https://github.com/linkedin/LayoutKit.git
+
+SPEC CHECKSUMS:
+  LayoutKit: 39d0a8cc65ef8575f924dcc55636e44a3480620f
+
+PODFILE CHECKSUM: 53a48ad62f40829dc98fce8123a35cfac761bce2
+
+COCOAPODS: 1.1.0.rc.2
